@@ -51,10 +51,15 @@ http://127.0.0.1:8080
     - Expiry: 2026-03-31
 
 🔐 Ethical Use
+
 This tool only extracts public email addresses.
+
 Use responsibly. Always respect a website's robots.txt, terms, and privacy policies.
 
 👨‍💻 Author
+
 Sahil Koli
+
 Penetration Tester & Ethical Hacker
+
 LinkedIn • GitHub
