@@ -41,7 +41,9 @@ Example:
 http://127.0.0.1:8080
 ```
 [+] Extracting emails from https://python.org
+
 [✓] Found: press@python.org
+
 [+] WHOIS Info:
     - Domain: python.org
     - Registrar: Google LLC
